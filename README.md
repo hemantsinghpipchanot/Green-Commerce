@@ -1,7 +1,6 @@
 # Green Commerce with Amazon
-
-## 🏆 WINNERS OF HACKON WITH AMAZON SEASON 3! 🏆
-### Team Name: THE VOYAGERS
+### Team Name: 
+hemantsinghpipchanot2004_97fb
 ### Team Members:
 - Hemant Singh Pipchanot
 - Somesh Sisodia
@@ -10,7 +9,7 @@
 <a href ="http://greenovation-site.s3-website.ap-south-1.amazonaws.com/" target="_blank">Green-Commerce </a>
 
 ### Idea Submission:
-[Idea](https://drive.google.com/file/d/1A33DEgFVyOefUFPGKBImGvQGwiPUcoru/view?usp=drive_link)
+[Idea](https://drive.google.com/file/d/1ii5r8n31lZh3kqh1t3R9cAHYCEMxYYbh/view?usp=sharing)
 
 ## PROJECT OVERVIEW: 
 
