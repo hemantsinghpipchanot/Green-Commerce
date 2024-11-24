@@ -3,10 +3,8 @@
 ## 🏆 WINNERS OF HACKON WITH AMAZON SEASON 3! 🏆
 ### Team Name: THE VOYAGERS
 ### Team Members:
-- Himanshu Srivastava
-- Piyush Pranav
-- Ayush Gupta
-- Pratush Gupta
+- Hemant Singh Pipchanot
+- Somesh Sisodia
 
 ### Website: 
 <a href ="http://greenovation-site.s3-website.ap-south-1.amazonaws.com/" target="_blank">Green-Commerce </a>
